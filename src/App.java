@@ -10,6 +10,8 @@ import java.util.Scanner;
 // 3. packing to jar
 // jar -c -v -f myapp.jar -e App . (Do inside bin folder)
 // 4. run the jar package (slide 12)
+// java -cp bin/day01.jar App
+// java -cp day01.jar App (run inside bin folder)
 
 
 public class App {
